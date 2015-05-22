@@ -4,7 +4,7 @@ A tool for parsing SQL queries.
 # Installing
 
 ```bash
-$ npm install sqlparser
+$ npm install sql-parse
 ```
 # Usage
 
