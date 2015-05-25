@@ -1,5 +1,7 @@
 # sql-parse
-A tool for parsing SQL queries.
+### A tool for parsing SQL queries.  
+[![Build Status](https://travis-ci.org/invercity/sql-parse.svg)](https://travis-ci.org/invercity/sql-parse)
+[![NPM Version][npm-image]][npm-url]
 
 # Installing
 
@@ -19,3 +21,6 @@ var result = parse('SELECT * FROM table');
 
 # License
 ### MIT
+
+[npm-image]: https://img.shields.io/npm/v/sql-parse.svg
+[npm-url]: https://npmjs.org/package/sql-parse
