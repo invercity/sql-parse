@@ -3,3 +3,4 @@ coverage.html
 node_modules/
 sql/
 .idea/
+parse.js
