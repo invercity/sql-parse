@@ -19,6 +19,10 @@ var result = parse('SELECT * FROM table');
 * make test
 * make cov, coverage.html
 
+## Updates
+### v0.1.5
+* implemented OR support for WHERE
+
 ## License
 ### MIT
 
